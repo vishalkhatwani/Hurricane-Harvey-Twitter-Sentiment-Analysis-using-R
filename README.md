@@ -1,0 +1,2 @@
+# Hurricane-Harvey-Twitter-Sentiment-Analysis-using-R
+1. Extracted tweets from twitter for 5 hour period from when the Hurricane Harvey threat was declared 2. Implemented various text mining techniques in R to clean around 100000+ tweets  3. Implemented Word-cloud and word frequencies to analyze the public interest at the time of threat 4. Analyzed the sentiments of tweets by counting the positive and negative words in the tweets
